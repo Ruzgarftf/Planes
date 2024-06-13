@@ -1,0 +1,12 @@
+Uri: https://rugar004.github.io/asumanRugar.github.io//
+File Name: C:\Users\profo\OneDrive\Belgeler\web sitesi\rugar004.github.io\asumanRugar.github.io\index.htm
+Content Type: text/html
+
+Uri: https://rugar004.github.io/asumanRugar.github.io/logo-g4706dbc22_1280.png
+File Name: C:\Users\profo\OneDrive\Belgeler\web sitesi\rugar004.github.io\asumanRugar.github.io\logo-g4706dbc22_1280.png
+Content Type: image/png
+
+Uri: https://rugar004.github.io/asumanRugar.github.io/main.css
+File Name: C:\Users\profo\OneDrive\Belgeler\web sitesi\rugar004.github.io\asumanRugar.github.io\main.css
+Content Type: text/css
+
